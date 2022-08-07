@@ -20,8 +20,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: danielitogomez
-  introTitle: "**Web site status** of danielitogomez web sites"
-  introMessage: Check the operational of the web sites
+  introTitle: "**Websites status**"
+  introMessage: Check the operation and status of our websites.
   navbar:
     - title: Status
       href: /upptime
