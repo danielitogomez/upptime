@@ -9,6 +9,8 @@ sites:
     url: https://dulcedimagio.com/
   - name: Blog Hello-World-it Prod
     url: https://www.helloworld-it.com/
+  - name: Homepage Prod
+    url: https://danielitogomez.github.io/
 
 assignees:
   - danielitogomez
