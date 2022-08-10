@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/dulcedimagio.com",
     "slug": "dulce-dimagio-prod",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.57%",
     "uptimeDay": "98.49%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 132,
     "timeDay": 106,
     "timeWeek": 132,
@@ -42,7 +42,7 @@
     "url": "https://www.helloworld-it.com/",
     "icon": "https://favicons.githubusercontent.com/www.helloworld-it.com",
     "slug": "blog-hello-world-it-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   },
   {
     "name": "Homepage Prod",
