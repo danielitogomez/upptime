@@ -6,9 +6,9 @@ sites:
   - name: My CV Production
     url: https://danielitogomez.github.io/my-cv/
   - name: DulceDimagio Prod
-    url: https://dulcedimagio.com/
+    url: https://website-6e553.web.app/
   - name: Blog Hello-World-it Prod
-    url: https://www.helloworld-it.com/
+    url: https://helloworld-it.onrender.com/
   - name: Homepage Prod
     url: https://danielitogomez.github.io/
 
