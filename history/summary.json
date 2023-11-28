@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 113,
-    "timeWeek": 72,
-    "timeMonth": 69,
+    "timeDay": 153,
+    "timeWeek": 85,
+    "timeMonth": 71,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/website-6e553.web.app.ico",
     "slug": "dulce-dimagio-prod",
     "status": "up",
-    "uptime": "60.51%",
+    "uptime": "60.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.38%",
+    "uptimeYear": "54.66%",
     "time": 143,
-    "timeDay": 88,
-    "timeWeek": 94,
-    "timeMonth": 93,
-    "timeYear": 147,
+    "timeDay": 203,
+    "timeWeek": 116,
+    "timeMonth": 96,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2023-10-03": 21,
       "2023-05-12": 768,
@@ -199,8 +199,7 @@
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
-      "2022-11-29": 1440,
-      "2022-11-28": 1440
+      "2022-11-29": 1440
     }
   },
   {
@@ -215,9 +214,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 439,
-    "timeDay": 207,
-    "timeWeek": 273,
-    "timeMonth": 278,
+    "timeDay": 193,
+    "timeWeek": 265,
+    "timeMonth": 273,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-08-11": 82,
@@ -237,10 +236,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 124,
-    "timeWeek": 43,
-    "timeMonth": 37,
-    "timeYear": 42,
+    "timeDay": 102,
+    "timeWeek": 54,
+    "timeMonth": 38,
+    "timeYear": 43,
     "dailyMinutesDown": {}
   }
 ]
