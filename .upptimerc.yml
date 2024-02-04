@@ -11,6 +11,8 @@ sites:
     url: https://helloworld-it.onrender.com/
   - name: Homepage Prod
     url: https://danielitogomez.github.io/
+  - name: DevOps App Roadmap Prod
+    url: https://roadmap-app.onrender.com/
 
 assignees:
   - danielitogomez
