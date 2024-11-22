@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 71,
-    "timeWeek": 91,
-    "timeMonth": 83,
-    "timeYear": 95,
+    "timeDay": 191,
+    "timeWeek": 105,
+    "timeMonth": 87,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 78,
-    "timeWeek": 107,
-    "timeMonth": 123,
-    "timeYear": 103,
+    "timeDay": 153,
+    "timeWeek": 110,
+    "timeMonth": 124,
+    "timeYear": 104,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 238,
-    "timeWeek": 234,
-    "timeMonth": 220,
+    "timeDay": 180,
+    "timeWeek": 215,
+    "timeMonth": 222,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 15,
-    "timeWeek": 19,
-    "timeMonth": 28,
-    "timeYear": 49,
+    "timeDay": 139,
+    "timeWeek": 37,
+    "timeMonth": 32,
+    "timeYear": 50,
     "dailyMinutesDown": {}
   },
   {
@@ -76,18 +76,19 @@
     "url": "https://roadmap-app.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "88.78%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "88.77%",
     "uptimeWeek": "96.93%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.25%",
     "time": 3109,
-    "timeDay": 9283,
-    "timeWeek": 3855,
-    "timeMonth": 2424,
+    "timeDay": 7414,
+    "timeWeek": 3988,
+    "timeMonth": 2453,
     "timeYear": 3109,
     "dailyMinutesDown": {
+      "2024-11-22": 0,
       "2024-11-21": 161,
       "2024-11-19": 43,
       "2024-11-18": 17,
@@ -144,8 +145,7 @@
       "2024-09-13": 64,
       "2024-09-10": 142,
       "2024-09-09": 136,
-      "2024-09-08": 77,
-      "2024-09-07": 15
+      "2024-09-08": 77
     }
   }
 ]
