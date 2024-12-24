@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 70,
-    "timeWeek": 100,
-    "timeMonth": 92,
-    "timeYear": 96,
+    "timeDay": 186,
+    "timeWeek": 106,
+    "timeMonth": 93,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/website-6e553.web.app.ico",
     "slug": "dulce-dimagio-prod",
     "status": "up",
-    "uptime": "78.33%",
+    "uptime": "78.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 172,
-    "timeWeek": 129,
-    "timeMonth": 120,
-    "timeYear": 106,
+    "timeDay": 169,
+    "timeWeek": 133,
+    "timeMonth": 123,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 279,
-    "timeWeek": 267,
-    "timeMonth": 274,
-    "timeYear": 260,
+    "timeDay": 271,
+    "timeWeek": 279,
+    "timeMonth": 275,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 11,
-    "timeWeek": 51,
+    "timeDay": 107,
+    "timeWeek": 50,
     "timeMonth": 44,
-    "timeYear": 49,
+    "timeYear": 50,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.34%",
-    "time": 3196,
-    "timeDay": 4338,
-    "timeWeek": 4018,
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.31%",
+    "time": 3192,
+    "timeDay": 169,
+    "timeWeek": 3262,
     "timeMonth": 3949,
-    "timeYear": 3196,
+    "timeYear": 3192,
     "dailyMinutesDown": {
-      "2024-12-23": 10,
       "2024-12-18": 18,
       "2024-12-17": 17,
       "2024-12-13": 26,
@@ -151,7 +150,7 @@
       "2024-09-20": 44,
       "2024-09-19": 30,
       "2024-09-18": 72,
-      "2024-09-16": 24
+      "2024-09-16": 174
     }
   }
 ]
