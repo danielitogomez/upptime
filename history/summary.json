@@ -22,11 +22,11 @@
     "url": "https://website-6e553.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/website-6e553.web.app.ico",
     "slug": "dulce-dimagio-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "79.21%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 89,
@@ -34,7 +34,7 @@
     "timeMonth": 125,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-01-29": 7
+      "2025-01-29": 0
     }
   },
   {
