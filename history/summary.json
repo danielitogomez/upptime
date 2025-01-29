@@ -24,18 +24,16 @@
     "slug": "dulce-dimagio-prod",
     "status": "up",
     "uptime": "79.21%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 85,
     "timeWeek": 106,
     "timeMonth": 124,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2025-01-29": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog Hello-World-it Prod",
@@ -78,9 +76,9 @@
     "url": "https://roadmap-app.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.42%",
@@ -90,6 +88,7 @@
     "timeMonth": 3299,
     "timeYear": 3201,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2025-01-22": 18,
       "2025-01-17": 19,
       "2025-01-14": 27,
@@ -152,8 +151,7 @@
       "2024-09-27": 21,
       "2024-09-26": 17,
       "2024-09-25": 26,
-      "2024-09-24": 35,
-      "2024-09-23": 36
+      "2024-09-24": 35
     }
   }
 ]
