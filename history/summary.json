@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 58,
-    "timeWeek": 79,
-    "timeMonth": 95,
-    "timeYear": 99,
+    "time": 96,
+    "timeDay": 276,
+    "timeWeek": 95,
+    "timeMonth": 102,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 116,
-    "timeWeek": 81,
+    "timeDay": 159,
+    "timeWeek": 91,
     "timeMonth": 109,
-    "timeYear": 111,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 214,
-    "timeWeek": 251,
-    "timeMonth": 261,
+    "timeDay": 378,
+    "timeWeek": 272,
+    "timeMonth": 265,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 17,
+    "timeDay": 22,
     "timeWeek": 14,
-    "timeMonth": 30,
+    "timeMonth": 31,
     "timeYear": 46,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,17 @@
     "slug": "dev-ops-app-roadmap-prod",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.43%",
-    "time": 3169,
-    "timeDay": 240,
-    "timeWeek": 1087,
-    "timeMonth": 2608,
+    "time": 3166,
+    "timeDay": 248,
+    "timeWeek": 1088,
+    "timeMonth": 2609,
     "timeYear": 3233,
     "dailyMinutesDown": {
-      "2025-02-25": 27,
+      "2025-02-25": 17,
       "2025-02-23": 16,
       "2025-02-22": 36,
       "2025-02-18": 95,
@@ -153,7 +153,7 @@
       "2024-10-02": 64,
       "2024-10-01": 139,
       "2024-09-30": 17,
-      "2024-09-29": 17
+      "2024-09-29": 35
     }
   }
 ]
