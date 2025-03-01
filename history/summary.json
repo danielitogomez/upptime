@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/website-6e553.web.app.ico",
     "slug": "dulce-dimagio-prod",
     "status": "up",
-    "uptime": "79.90%",
+    "uptime": "79.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,18 +76,19 @@
     "url": "https://roadmap-app.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.43%",
     "time": 3169,
     "timeDay": 224,
-    "timeWeek": 2425,
+    "timeWeek": 2632,
     "timeMonth": 2809,
     "timeYear": 3253,
     "dailyMinutesDown": {
+      "2025-03-01": 0,
       "2025-02-25": 17,
       "2025-02-23": 16,
       "2025-02-22": 36,
@@ -153,7 +154,7 @@
       "2024-10-02": 64,
       "2024-10-01": 139,
       "2024-09-30": 17,
-      "2024-09-29": 35
+      "2024-09-29": 17
     }
   }
 ]
