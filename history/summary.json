@@ -4,19 +4,19 @@
     "url": "https://danielitogomez.github.io/my-cv/",
     "icon": "https://icons.duckduckgo.com/ip3/danielitogomez.github.io.ico",
     "slug": "my-cv-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 75,
-    "timeWeek": 121,
+    "timeDay": 108,
+    "timeWeek": 123,
     "timeMonth": 140,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 32
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeDay": 220,
     "timeWeek": 4374,
     "timeMonth": 5101,
-    "timeYear": 3793,
+    "timeYear": 3784,
     "dailyMinutesDown": {
       "2025-09-19": 20,
       "2025-09-05": 30,
