@@ -22,9 +22,9 @@
     "url": "https://website-6e553.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/website-6e553.web.app.ico",
     "slug": "dulce-dimagio-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "83.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 140,
     "timeMonth": 134,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "Blog Hello-World-it Prod",
@@ -86,7 +88,7 @@
     "timeDay": 220,
     "timeWeek": 4374,
     "timeMonth": 5101,
-    "timeYear": 3789,
+    "timeYear": 3793,
     "dailyMinutesDown": {
       "2025-09-19": 20,
       "2025-09-05": 30,
