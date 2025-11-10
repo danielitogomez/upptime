@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 127,
-    "timeWeek": 157,
-    "timeMonth": 116,
+    "timeDay": 115,
+    "timeWeek": 154,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-09-22": 32
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 113,
-    "timeWeek": 149,
-    "timeMonth": 133,
+    "time": 129,
+    "timeDay": 198,
+    "timeWeek": 150,
+    "timeMonth": 136,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-09-22": 23
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 102,
-    "timeWeek": 267,
-    "timeMonth": 231,
+    "time": 253,
+    "timeDay": 260,
+    "timeWeek": 276,
+    "timeMonth": 230,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 89,
-    "timeWeek": 80,
-    "timeMonth": 51,
+    "timeDay": 18,
+    "timeWeek": 73,
+    "timeMonth": 50,
     "timeYear": 62,
     "dailyMinutesDown": {}
   },
@@ -81,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "98.03%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.27%",
     "time": 3705,
-    "timeDay": 262,
-    "timeWeek": 6511,
-    "timeMonth": 4633,
+    "timeDay": 412,
+    "timeWeek": 6525,
+    "timeMonth": 4636,
     "timeYear": 3827,
     "dailyMinutesDown": {
-      "2025-11-09": 8,
       "2025-11-06": 39,
       "2025-11-04": 291,
       "2025-11-03": 41,
@@ -171,7 +170,8 @@
       "2025-05-08": 20,
       "2025-05-07": 22,
       "2025-05-03": 19,
-      "2025-05-02": 34
+      "2025-05-02": 34,
+      "2025-05-01": 20
     }
   }
 ]
