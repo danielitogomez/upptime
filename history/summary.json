@@ -84,17 +84,17 @@
     "slug": "dev-ops-app-roadmap-prod",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "92.11%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "98.81%",
-    "time": 5536,
-    "timeDay": 12197,
-    "timeWeek": 10234,
-    "timeMonth": 11690,
-    "timeYear": 6000,
+    "time": 5550,
+    "timeDay": 12203,
+    "timeWeek": 9963,
+    "timeMonth": 11696,
+    "timeYear": 6009,
     "dailyMinutesDown": {
-      "2026-04-01": 0,
+      "2026-04-01": 52,
       "2026-03-29": 51,
       "2026-03-26": 59,
       "2026-03-25": 237,
@@ -140,8 +140,7 @@
       "2026-01-27": 34,
       "2026-01-25": 20,
       "2026-01-23": 78,
-      "2026-01-22": 29,
-      "2026-01-21": 31
+      "2026-01-22": 29
     }
   }
 ]
