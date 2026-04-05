@@ -82,13 +82,13 @@
     "url": "https://roadmap-app.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-app.onrender.com.ico",
     "slug": "dev-ops-app-roadmap-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "97.07%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "97.18%",
     "uptimeMonth": "92.63%",
-    "uptimeYear": "98.78%",
-    "time": 5600,
+    "uptimeYear": "98.79%",
+    "time": 5606,
     "timeDay": 6450,
     "timeWeek": 9354,
     "timeMonth": 11233,
@@ -140,8 +140,7 @@
       "2026-02-02": 24,
       "2026-01-30": 53,
       "2026-01-27": 34,
-      "2026-01-25": 20,
-      "2026-01-23": 50
+      "2026-01-25": 20
     }
   }
 ]
