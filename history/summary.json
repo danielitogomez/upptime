@@ -64,18 +64,20 @@
     "url": "https://danielitogomez.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/danielitogomez.github.io.ico",
     "slug": "homepage-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 37,
+    "timeDay": 48,
     "timeWeek": 59,
-    "timeMonth": 69,
+    "timeMonth": 68,
     "timeYear": 75,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   },
   {
     "name": "DevOps App Roadmap Prod",
@@ -85,13 +87,13 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "94.58%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "98.77%",
     "time": 5741,
     "timeDay": 12238,
-    "timeWeek": 10876,
-    "timeMonth": 12171,
+    "timeWeek": 9610,
+    "timeMonth": 12181,
     "timeYear": 6130,
     "dailyMinutesDown": {
       "2026-04-11": 68,
