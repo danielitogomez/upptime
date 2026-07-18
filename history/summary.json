@@ -64,20 +64,20 @@
     "url": "https://danielitogomez.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/danielitogomez.github.io.ico",
     "slug": "homepage-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 103,
-    "timeDay": 7556,
-    "timeWeek": 1964,
-    "timeMonth": 573,
+    "timeDay": 5057,
+    "timeWeek": 1752,
+    "timeMonth": 557,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-04-13": 54,
-      "2026-07-18": 0
+      "2026-07-18": 44
     }
   },
   {
